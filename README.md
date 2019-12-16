@@ -17,3 +17,6 @@ information about the images.
 - `journal`: name of journal
 - `oa`: open access? (Y for yes, N for no)
 - `year`: year of publication
+
+# Contributors
+Laura Morrison-Westphal (@callousmuppet)
